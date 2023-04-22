@@ -6,4 +6,3 @@ Add lines
 New line
 Form the lines
 shield by shield
-revert's line
