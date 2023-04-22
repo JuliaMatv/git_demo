@@ -8,3 +8,4 @@ Form the lines
 shield by shield
 revert's line
 feature line
+resolve the conflict
